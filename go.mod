@@ -7,7 +7,7 @@ require (
 	github.com/huin/goupnp v1.2.0
 	github.com/jackpal/go-nat-pmp v1.0.2
 	github.com/pkg/errors v0.9.1
-	github.com/sprintframework/nat v0.0.1
+	github.com/sprintframework/nat v1.0.0
 )
 
 require (
