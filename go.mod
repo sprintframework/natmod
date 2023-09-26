@@ -3,7 +3,7 @@ module github.com/sprintframework/natmod
 go 1.17
 
 require (
-	github.com/codeallergy/glue v1.1.0
+	github.com/codeallergy/glue v1.1.3
 	github.com/huin/goupnp v1.2.0
 	github.com/jackpal/go-nat-pmp v1.0.2
 	github.com/pkg/errors v0.9.1
